@@ -1,7 +1,7 @@
 # Hi there 👋, I'm Amna!
 
 A passionate **Frontend Developer** from **Pakistan**.  
-I love building **interactive, responsive web applications** and exploring **data science**.  
+I love building **interactive, responsive web applications** and exploring **Artificial Intelligence**.  
 
 ---
 
@@ -36,13 +36,4 @@ I love building **interactive, responsive web applications** and exploring **dat
 ## 🚀 About Me
 - Always learning and improving my coding skills  
 - Building projects that solve real problems  
-- Passionate about **frontend development** and **data science**  
-
----
-
-## 📝 Projects
-*(Add your top projects here with links & descriptions)*  
-- [Project 1](#) - Short description  
-- [Project 2](#) - Short description  
-
----
+- Passionate about **frontend development** and **Artificial Intelligence**  
