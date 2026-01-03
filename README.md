@@ -11,26 +11,38 @@ I love building **interactive, responsive web applications** and exploring **dat
 ---
 
 ## 🔗 Connect With Me
-- LinkedIn: [Amna Ajmal](https://www.linkedin.com/in/amna-ajmal-794259273/)  
-- GitHub: [Amnaax](https://github.com/Amnaax)  
-*(Add portfolio link here if you have one)*  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Amna-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/amna-ajmal-794259273/)  
+[![GitHub](https://img.shields.io/badge/GitHub-Amnaax-black?style=flat&logo=github)](https://github.com/Amnaax)  
 
 ---
 
 ## 🛠 Languages & Tools
 
 **Frontend & Web Development:**  
-`HTML5` `CSS3` `JavaScript` `React.js`  
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white) 
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white) 
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) 
+![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)  
 
 **Python & Data Science:**  
-`Python` `Pandas` `Scikit-learn` `Seaborn` `TensorFlow`  
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) 
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white) 
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat) 
+![Seaborn](https://img.shields.io/badge/Seaborn-1A1A1A?style=flat) 
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)  
 
 ---
 
 ## 🚀 About Me
 - Always learning and improving my coding skills  
 - Building projects that solve real problems  
-- Passionate about both **frontend development** and **data science**  
+- Passionate about **frontend development** and **data science**  
 
 ---
 
+## 📝 Projects
+*(Add your top projects here with links & descriptions)*  
+- [Project 1](#) - Short description  
+- [Project 2](#) - Short description  
+
+---
