@@ -1,4 +1,4 @@
-# Hi there 👋, I'm Amna!
+# Hi there 👋, I'm Amna Ajmal!
 
 A passionate **Frontend Developer** from **Pakistan**.  
 I love building **interactive, responsive web applications** and exploring **Artificial Intelligence**.  
